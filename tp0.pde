@@ -1,5 +1,5 @@
 // Rubilar, Ana Belén
-// Tp0
+// tp0
 void setup(){
   size( 600, 500);
   background(54, 61, 178);
